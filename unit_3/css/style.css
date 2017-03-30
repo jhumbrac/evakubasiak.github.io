@@ -1,0 +1,40 @@
+body{
+	background: url("http://i.imgur.com/PKVsVdj.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #7689AB;
+
+}
+header{
+	color: black;
+	font-family: Helvetica, sans-serif;
+	padding: 50px;
+	text-align: center;
+}
+a{
+	color: white;
+}
+main{
+	color: white;
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+}
+h2{
+	font-size: 80px;
+}
+#get-found{
+	font-size: 40px;
+}
+span{
+	color: rgba(255,255,255,.6);
+}
+p{
+	font-size: 24px;
+}
+#info{
+	background-color: rgba(0,0,0,.5);
+	margin: 600px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-top: 25px;
+}
