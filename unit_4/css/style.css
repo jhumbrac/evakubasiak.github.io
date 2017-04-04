@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Shadows+Into+Light');
+body{
+/*	background: url("http://i.imgur.com/PKVsVdj.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	background-color: #7689AB;
+	font-size:16px;
+}
+header{
+	color: white;
+	font-family: Helvetica, sans-serif;
+	margin: 1em auto;
+	padding: 10em;
+	text-align: center;
+	background: url("http://i.imgur.com/PKVsVdj.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+main{
+	color: white;
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+}
+h2{
+	font-size: 4em;
+	font-family: 'Open Sans Condensed', Helvetica, sans-serif;
+}
+h3{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 1.5em;
+}
+#get-found{
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 3em;
+	margin: 1em 2em;
+	text-decoration: none;	
+}
+span{
+	color: rgba(255,255,255,.6);
+}
+p{
+	font-size: 1.5em;
+}
+
+#intro{
+	background-color: rgba(0,0,0,.5);
+	font-family: 'Open Sans Condensed', Helvetica, sans-serif;
+	margin: auto;
+	margin-top: 25px;
+	padding: 2em 2em;
+	width: 30em;
+}
+.pages{
+	background-color: #7689AB;
+}
