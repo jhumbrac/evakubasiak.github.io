@@ -34,9 +34,10 @@ h3{
 	font-size: 1.5em;
 }
 #get-found{
+	background-color: rgba(0,0,0,.5);
 	font-family: 'Shadows Into Light', cursive;
 	font-size: 3em;
-	margin: 1em 2em;
+	margin: 1em 3em;
 	text-decoration: none;	
 }
 span{
